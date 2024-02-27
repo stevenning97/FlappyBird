@@ -1,0 +1,29 @@
+﻿  Actor.cpp
+  AnimSpriteComponent.cpp
+  BGSpriteComponent.cpp
+  Bird.cpp
+  Component.cpp
+  Game.cpp
+C:\Users\Steven\Desktop\FlappyBird\Unit 02\Game.cpp(37,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Steven\Desktop\FlappyBird\Unit 02\Game.cpp(37,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  Math.cpp
+  PipeComponent.cpp
+C:\Users\Steven\Desktop\FlappyBird\Unit 02\PipeComponent.cpp(111,31): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Steven\Desktop\FlappyBird\Unit 02\PipeComponent.cpp(159,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SpriteComponent.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\Steven\Desktop\FlappyBird\Unit 02\Debug\Game.exe
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\libfreetype-6.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\libogg-0.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\libpng16-16.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\libvorbis-0.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\libvorbisfile-3.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\SDL2.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\SDL2_image.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\SDL2_mixer.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\SDL2_ttf.dll
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
+  C:\Users\Steven\Desktop\FlappyBird\Unit 02\\..\external\GLEW\lib\win\x86\glew32.dll
+  1 File(s) copied
